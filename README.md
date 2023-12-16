@@ -1,2 +1,2 @@
-# Revolution_Build
-Compilado del proyecto Revolution
+# Revolution build 
+compiled from the Revolution project
